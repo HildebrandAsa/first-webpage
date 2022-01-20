@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(254, 224, 255);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-section, h4 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: rgba(0, 0, 139, 0.911);
+}
+
+.list-section {
+  color: rgb(5, 25, 70);
+}
+
